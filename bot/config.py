@@ -1,10 +1,11 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "1915027493:AAFacdmBjPzRaZj-tuHEIPzD3gmGcB9FHNc"
+    APP_ID = "8755370"
+    API_HASH = "54261233493bbc5bbf489146dd2909dc"
+    DATABASE_URL = "postgres://dcqkgjxenphxcm:d936db97851ec14f00ec2a3530d110047ccbed02afe4ee1bb99d617103b283f8@ec2-34-196-238-94.compute-1.amazonaws.com:5432/dcuqkshm3dq4u
+"
+    SUDO_USERS = "1463744219" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://links.atozcartoonist.com"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
     G_DRIVE_CLIENT_SECRET = ""
