@@ -7,8 +7,8 @@ class config:
     SUDO_USERS = "1463744219" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://links.atozcartoonist.com"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "125982851660-udvhhmnr3ceba84bn2o7lhcl1a36vj3k.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "7dwzUPpJitEdgmp4JbdeD0a_"
 
 
 class BotCommands:
